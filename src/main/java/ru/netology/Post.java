@@ -9,7 +9,4 @@ public class Post {
     public boolean subscription;
     public FormDate birthday;
 
-    //FormDate birthday = new FormDate();
-
-
 }
